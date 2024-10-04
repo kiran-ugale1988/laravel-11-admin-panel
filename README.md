@@ -33,15 +33,17 @@ Follow these steps to set up the Laravel 11 Admin Panel.
 
 Now, you should be able to access your Laravel application at `http://localhost:8000`.
 
-Git: Git clone repo in your existing project folder and push all the files in git repo.
+## Git: Git clone repo in your existing project folder and push all the files in git repo.
 1. Navigate to the project directory:
     ```bash
     cd laravel-11-admin-panel
     ```
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:kiran-ugale1988/laravel-11-admin-panel.git
-git push -u origin main
+   ## Do the following steps first time project setup:
+   ``git init
+     git add .
+     git commit -m "first commit"
+     git branch -M main
+     git remote add origin git@github.com:kiran-ugale1988/laravel-11-admin-panel.git
+     git push -u origin main
+    ``
 
